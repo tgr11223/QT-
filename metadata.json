@@ -1,0 +1,5 @@
+{
+  "name": "Qt-Stream Web",
+  "description": "A high-performance local video player with playlist management, theming, and advanced playback controls, built with React and Tailwind.",
+  "requestFramePermissions": []
+}
